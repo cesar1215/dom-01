@@ -1,0 +1,1 @@
+Ejercicio del DOM innerHTML
